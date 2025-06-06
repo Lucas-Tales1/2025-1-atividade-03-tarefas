@@ -34,4 +34,4 @@ Esta atividade tem como objetivo a prática de compilação de código dentro de
 
 ## Conclusão
 
-Com essa atividade reforcei meus conhecimentos com Docker e o terminal do Fedora, compilação de código em C bem como sua execução
+Com essa atividade reforcei meus conhecimentos com Docker e o terminal do Fedora, compilação de código em C bem como sua execução dentro de um container Docker
